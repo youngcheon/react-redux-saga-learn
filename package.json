@@ -1,0 +1,22 @@
+{
+  "name": "react-next-redux-saga",
+  "version": "1.0.0",
+  "description": "학습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngcheon/react-redux-saga-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngcheon/react-redux-saga-learn/issues"
+  },
+  "homepage": "https://github.com/youngcheon/react-redux-saga-learn#readme",
+  "dependencies": {
+    "next": "^9.5.5"
+  }
+}
