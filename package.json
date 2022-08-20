@@ -4,19 +4,27 @@
   "description": "학습",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/youngcheon/react-redux-saga-learn.git"
   },
-  "author": "",
+  "author": "youngcheon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/youngcheon/react-redux-saga-learn/issues"
   },
   "homepage": "https://github.com/youngcheon/react-redux-saga-learn#readme",
   "dependencies": {
-    "next": "^9.5.5"
+    "next": "^9.5.5",
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }
